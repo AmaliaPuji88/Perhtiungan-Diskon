@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Perhitungan-Diskon/1.0.0": {
+        "runtime": {
+          "Perhitungan-Diskon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Perhitungan-Diskon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

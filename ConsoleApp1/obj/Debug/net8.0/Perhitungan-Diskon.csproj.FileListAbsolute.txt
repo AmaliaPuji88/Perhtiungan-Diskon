@@ -1,0 +1,42 @@
+C:\Users\fhm\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Perhitungan-Diskon.exe
+C:\Users\fhm\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Perhitungan-Diskon.deps.json
+C:\Users\fhm\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Perhitungan-Diskon.runtimeconfig.json
+C:\Users\fhm\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Perhitungan-Diskon.dll
+C:\Users\fhm\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Perhitungan-Diskon.pdb
+C:\Users\fhm\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Perhitungan-Diskon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fhm\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Perhitungan-Diskon.AssemblyInfoInputs.cache
+C:\Users\fhm\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Perhitungan-Diskon.AssemblyInfo.cs
+C:\Users\fhm\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Perhitungan-Diskon.csproj.CoreCompileInputs.cache
+C:\Users\fhm\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Perhitungan-Diskon.dll
+C:\Users\fhm\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Perhitungan-Diskon.dll
+C:\Users\fhm\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Perhitungan-Diskon.pdb
+C:\Users\fhm\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Perhitungan-Diskon.genruntimeconfig.cache
+C:\Users\fhm\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\Perhitungan-Diskon.dll
+D:\Tugas ayang\Perhitungan-Diskon\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Perhitungan-Diskon.exe
+D:\Tugas ayang\Perhitungan-Diskon\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Perhitungan-Diskon.deps.json
+D:\Tugas ayang\Perhitungan-Diskon\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Perhitungan-Diskon.runtimeconfig.json
+D:\Tugas ayang\Perhitungan-Diskon\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Perhitungan-Diskon.dll
+D:\Tugas ayang\Perhitungan-Diskon\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Perhitungan-Diskon.pdb
+D:\Tugas ayang\Perhitungan-Diskon\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Perhitungan-Diskon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas ayang\Perhitungan-Diskon\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Perhitungan-Diskon.AssemblyInfoInputs.cache
+D:\Tugas ayang\Perhitungan-Diskon\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Perhitungan-Diskon.AssemblyInfo.cs
+D:\Tugas ayang\Perhitungan-Diskon\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Perhitungan-Diskon.csproj.CoreCompileInputs.cache
+D:\Tugas ayang\Perhitungan-Diskon\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Perhitungan-Diskon.dll
+D:\Tugas ayang\Perhitungan-Diskon\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Perhitungan-Diskon.dll
+D:\Tugas ayang\Perhitungan-Diskon\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Perhitungan-Diskon.pdb
+D:\Tugas ayang\Perhitungan-Diskon\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Perhitungan-Diskon.genruntimeconfig.cache
+D:\Tugas ayang\Perhitungan-Diskon\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\Perhitungan-Diskon.dll
+D:\Tugas Amalia Puji Lestari\Perhitungan-Diskon\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Perhitungan-Diskon.exe
+D:\Tugas Amalia Puji Lestari\Perhitungan-Diskon\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Perhitungan-Diskon.deps.json
+D:\Tugas Amalia Puji Lestari\Perhitungan-Diskon\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Perhitungan-Diskon.runtimeconfig.json
+D:\Tugas Amalia Puji Lestari\Perhitungan-Diskon\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Perhitungan-Diskon.dll
+D:\Tugas Amalia Puji Lestari\Perhitungan-Diskon\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Perhitungan-Diskon.pdb
+D:\Tugas Amalia Puji Lestari\Perhitungan-Diskon\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Perhitungan-Diskon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas Amalia Puji Lestari\Perhitungan-Diskon\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Perhitungan-Diskon.AssemblyInfoInputs.cache
+D:\Tugas Amalia Puji Lestari\Perhitungan-Diskon\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Perhitungan-Diskon.AssemblyInfo.cs
+D:\Tugas Amalia Puji Lestari\Perhitungan-Diskon\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Perhitungan-Diskon.csproj.CoreCompileInputs.cache
+D:\Tugas Amalia Puji Lestari\Perhitungan-Diskon\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Perhitungan-Diskon.dll
+D:\Tugas Amalia Puji Lestari\Perhitungan-Diskon\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Perhitungan-Diskon.dll
+D:\Tugas Amalia Puji Lestari\Perhitungan-Diskon\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Perhitungan-Diskon.pdb
+D:\Tugas Amalia Puji Lestari\Perhitungan-Diskon\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Perhitungan-Diskon.genruntimeconfig.cache
+D:\Tugas Amalia Puji Lestari\Perhitungan-Diskon\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\Perhitungan-Diskon.dll
